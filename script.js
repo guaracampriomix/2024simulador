@@ -10,7 +10,6 @@ function calcularTabela() {
     const produtos = {
         "1,5L": { unitario: 2.631578947, pallet: 50 },
         "Água 12": { unitario: 1.789473684, pallet: 150 },
-        "ÁGUA GALÃO": { unitario: 5.847953216, pallet: 150 },
         "Bombona": { unitario: 1.461988304, pallet: 48 },
         "Caixa 24": { unitario: 2.000000000, pallet: 100 },
         "Caixa 36": { unitario: 3.000000000, pallet: 84 },
